@@ -19,6 +19,9 @@ import java.util.Map;
 @WebServlet("/admin/*")
 public class AdminAction extends BaseAction {
     //登录
+    //1
+    //1
+    //1
     public void login(HttpServletRequest request, HttpServletResponse response) throws IOException {
         MyResponse<String> myResponse = new MyResponse<>();
         AdminService service = new AdminService();
