@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="domain">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/class/com/photograph_u/domain.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
